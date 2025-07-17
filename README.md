@@ -43,7 +43,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/fedesoria
 
 ---
 
-## 🧪 Final Accuracy Comparison
+##  Final Accuracy Comparison
 
 | Model               | Accuracy |
 |--------------------|----------|
