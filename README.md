@@ -63,6 +63,5 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/fedesoria
 - joblib
 - Jupyter Notebook
 
-You can install all required packages using:
-```bash
+
 
